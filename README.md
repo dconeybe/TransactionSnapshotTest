@@ -17,7 +17,7 @@ See https://groups.google.com/g/google-cloud-firestore-discuss/c/tORo0hykByc/m/R
 1. Run `npm run build` to generate the compiled JavaScript.
 2. Open `index.html` in a web browser, and click the "Run Test" button.
 
-## Run in a Browser
+## Run in Node.js
 
 1. Run `npm run run` to run the code in Node on the command line.
 
